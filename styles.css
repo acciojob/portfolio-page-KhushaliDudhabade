@@ -12,13 +12,13 @@ a{
 	color:black;
 	font-size:20px;
 }
-section{
+#skills{
 	height:100px;
 	width:320px;
 	background-color:#98d1fa;
 }
 
-#sec2{
+#projects{
 	height:200px;
 	width:320px;
 	background-color:#faa5d9;
