@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+img{
+	width:200px;
+	height:200px;
+	border:1px solid black;
+	border-radius:16px;
+}
+
+a{
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+}
+section{
+	height:100px;
+	width:320px;
+	background-color:#98d1fa;
+}
+
+#sec2{
+	height:200px;
+	width:320px;
+	background-color:#faa5d9;
+}
+body{
+	background-color:#c2dcff;
+	
+}
